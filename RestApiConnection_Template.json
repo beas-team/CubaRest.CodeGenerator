@@ -1,0 +1,7 @@
+﻿{
+  "endpoint": "http://(Put your REST API endpoint URL here)",
+  "basicUsername": "client",
+  "basicPassword": "secret",
+  "username": "admin",
+  "password": "admin"
+}

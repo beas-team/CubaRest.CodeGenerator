@@ -1,0 +1,4 @@
+bin/
+obj/
+ProjectConfiguration.json
+RestApiConnection.json

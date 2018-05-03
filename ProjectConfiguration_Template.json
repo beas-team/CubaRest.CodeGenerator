@@ -1,5 +1,5 @@
 ﻿{
-  "rootNamespace": "My.Project",
+  "rootNamespace": "My.Project.ServerModel",
   "entityTypePrefixes": [ "app", "crm", "org", "sec", "std", "sys", "myprefix" ],
   "enumsPrefix": "com.myproject"
 }

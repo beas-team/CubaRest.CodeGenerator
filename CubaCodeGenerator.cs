@@ -44,7 +44,7 @@ namespace CubaRest.CodeGenerator
                  + "using System;\r\n"
                  + "using System.Collections.Generic;\r\n"
                  + "using System.ComponentModel;\r\n\r\n"
-                 + $"namespace {_namespace}.Model\r\n"
+                 + $"namespace {_namespace}\r\n"
                  + "{\r\n"
                  + $"public class {prefix.ToPascalCase()}\r\n"
                  + "{\r\n"

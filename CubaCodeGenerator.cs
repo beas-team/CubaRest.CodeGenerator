@@ -193,7 +193,7 @@ namespace CubaRest.CodeGenerator
 
             return "using CubaRest.Model;\r\n"
                  + "using System.ComponentModel;\r\n\r\n"
-                 + $"namespace {_namespace}.Model\r\n"
+                 + $"namespace {_namespace}\r\n"
                  + "{\r\n"
                  + string.Join("\r\n\r\n", enums.Select(x => GetCodeForEnum(x)))
                  + "}";
